@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Metadata version="1">
+  <AspectRatio>4.55925853276221</AspectRatio>
+  <Image>
+    <FileName>\\Mac\Home\Documents\Expression\Deep Zoom Composer Projects\DeepZoomImageCollection_1\Source Images\deepzoomimagecollection_1_ppl.jpg</FileName>
+    <x>0</x>
+    <y>0</y>
+    <Width>0.307291331488513</Width>
+    <Height>1</Height>
+    <ZOrder>1</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>\\Mac\Home\Documents\Expression\Deep Zoom Composer Projects\DeepZoomImageCollection_1\Source Images\deepzoomimagecollection_1_xpl.jpg</FileName>
+    <x>0.333612201557373</x>
+    <y>0</y>
+    <Width>0.332966992609448</Width>
+    <Height>1</Height>
+    <ZOrder>2</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>\\Mac\Home\Documents\Expression\Deep Zoom Composer Projects\DeepZoomImageCollection_1\Source Images\deepzoomimagecollection_1_leyend.jpg</FileName>
+    <x>0.692708668511473</x>
+    <y>0</y>
+    <Width>0.307291331488527</Width>
+    <Height>1</Height>
+    <ZOrder>3</ZOrder>
+    <Tag />
+  </Image>
+</Metadata>

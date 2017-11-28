@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+
+    <title>DeepZoomImageCollection_1</title>
+
+<script src="DeepZoomImageCollection_1/openseadragon.min.js"></script>
+<script src="DeepZoomImageCollection_1/openseadragon-scalebar.js"></script>
+
+</head>
+
+<body>
+<div id="openseadragon1" style="width: 800px; height: 600px;"></div>
+
+<script type="text/javascript">
+var viewer = new OpenSeadragon.Viewer({
+id: "openseadragon1",
+prefixUrl: "DeepZoomImageCollection_1/images/",
+sequenceMode: true, 
+showReferenceStrip: true,
+tileSources: ["DeepZoomImageCollection_1/collection/dzc_output_images/deepzoomimagecollection_1_ppl.xml", "DeepZoomImageCollection_1/collection/dzc_output_images/deepzoomimagecollection_1_xpl.xml", "DeepZoomImageCollection_1/collection/dzc_output_images/deepzoomimagecollection_1_leyend.xml"]
+});
+viewer.scalebar({
+  type: OpenSeadragon.ScalebarType.MICROSCOPY,
+  minWidth: "75px",
+  pixelsPerMeter: 140137,
+  color: "rgb(150, 150, 150)",
+  location: OpenSeadragon.ScalebarLocation.TOP_RIGHT
+});
+</script>
+</body>
+</html>

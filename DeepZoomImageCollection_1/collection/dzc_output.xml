@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Collection MaxLevel="8" TileSize="256" Format="jpg" NextItemId="3" ServerFormat="Default" xmlns="http://schemas.microsoft.com/deepzoom/2009">
+  <Items>
+    <I Id="0" N="0" Source="dzc_output_images/deepzoomimagecollection_1_ppl.xml">
+      <Size Width="6589" Height="4703" />
+      <Viewport Width="3.2542408376963339" X="-0" Y="-0" />
+    </I>
+    <I Id="1" N="1" Source="dzc_output_images/deepzoomimagecollection_1_xpl.xml">
+      <Size Width="7094" Height="4673" />
+      <Viewport Width="3.0033006940509157" X="-1.0019377564811112" Y="-0" />
+    </I>
+    <I Id="2" N="2" Source="dzc_output_images/deepzoomimagecollection_1_leyend.xml">
+      <Size Width="6589" Height="4703" />
+      <Viewport Width="3.2542408376961869" X="-2.2542408376961869" Y="-0" />
+    </I>
+  </Items>
+</Collection>
